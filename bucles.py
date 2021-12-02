@@ -35,7 +35,7 @@ while a < b:
 numero = 3 #pon aquí el número del que quieres hacer la tabla
 print("tabla de multiplicar del ", numero)
 
-print("Ejemplo for")
+print("Ejemplo for") 
 for i in range(1,11): # números del 0 al 10
     print(numero, "por", i, "=", i*3)
 
